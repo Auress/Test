@@ -1,1 +1,2 @@
 print ('Hello new Repo !')
+print ('New useful info have been added')
